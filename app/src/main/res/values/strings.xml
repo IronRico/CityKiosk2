@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">City Tele-Coin Inmate Services</string>
+    <string name="hello_world">Hello Kiosk Mode!</string>
+    <string name="hiddenBreakoutButton">For Jail Use Only</string>
+
+</resources>
